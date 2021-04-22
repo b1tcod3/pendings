@@ -16,6 +16,8 @@
    +El Tx HASH
    *Nuevo* si se consumio el fee burn
    
+**Fee Burn**
+
 
 
 + Pagina de /withdraw en la parte del admin
