@@ -75,3 +75,8 @@ https://adgem.com/docs/api-integration/offer-wall-api/
 -lootably & loot.tv
 https://lootably.com/
 ----------------------------------------------------   
+que como en la de la red salga un mensaje diciendo un fee puesto en /coin y ese fee salga en el momento del retiro y en el modal indicando que este fee extra se descuenta si la cuenta es nueva
+
+en withdraw/manual se debe indicar si se cobro el fee burn si/no
+se debera colocar otro input en /coin sera y que se guarde en la db ya que solo alguna los cobran no toda
+si esta en 0 que no salga la info
