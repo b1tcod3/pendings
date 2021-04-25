@@ -1,24 +1,27 @@
-**Pendientes trabajos para essential**
+# Pendientes trabajos para essential
 
-+ Pagina de manual withdraw 
+## Pagina de manual withdraw 
 
-*Colocar en la tabla un boton para que salga un modal con la siguiente info:*
+> Colocar en la tabla un boton para que salga un modal con la siguiente info:
    
-   +ID del Retiro
-   +Cantidad en Coins
-   +El Monto del Retiro en la Crypto que Retiro
-   +Fecha
-   +Nombre Completo de la Crypto con Acronimo
-   +La red que uso, es decir, (BSC / BEP2 / Mainnet)
-   +El fee
-   +Y lo que recibira, es decir, El Monto menos el Fee
-   +El Precio de la Crypto en el monto que retiro
-   +El Tx HASH
-   *Nuevo* si se consumio el fee burn
+   + ~~ID del Retiro~~
+   + Cantidad en Coins
+   + El Monto del Retiro en la Crypto que Retiro
+   + Fecha
+   + Nombre Completo de la Crypto con Acronimo
+   + La red que uso, es decir, (BSC / BEP2 / Mainnet)
+   + El fee
+   + Y lo que recibira, es decir, El Monto menos el Fee
+   + El Precio de la Crypto en el monto que retiro
+   + El Tx HASH
+   + Si se consumio el fee burn
+
+---
    
-**Fee Burn**
+# Fee Burn
+	es un fee para nuevas address, es necesario usar la api para saber si se va a cobrar o no el fee
 
-
+---
 
 + Pagina de /withdraw en la parte del admin
 
