@@ -1,6 +1,6 @@
 # Pendientes trabajos para essential
 
-## Pagina de manual withdraw 
+## Página de manual withdraw 
 
 > Colocar en la tabla un boton para que salga un modal con la siguiente info:
    
@@ -19,34 +19,34 @@
 > Esto se colocó en withdraw manual y en el usuario
 ---
    
-# Fee Burn
+## Fee Burn
 	es un fee para nuevas address, es necesario usar la api para saber si se va a cobrar o no el fee
 
 ---
 
-+ Pagina de /withdraw en la parte del admin
+## Pagina de /withdraw en la parte del admin
 
--Colocar en el modal la siguiente info:
+>Colocar en el modal la siguiente info:
 
-   -Que red se uso para el retiro
-   -El Precio de la Crypto en el momento del retiro
-   -Y lo que recibira, es decir, (El Monto - Fee) pero dejar tambien el monto completo , es decir, (Solo el Monto si la resta del Fee)
-   -Boton que me llevara a ver las actividades del usuario
+   + ~Que red se uso para el retiro~
+   + ~El Precio de la Crypto en el momento del retiro~
+   + ~Y lo que recibira, es decir, (El Monto - Fee) pero dejar tambien el monto completo , es decir, (Solo el Monto si la resta del Fee)~
+   + ~Boton que me llevara a ver las actividades del usuario~
 
-+ Pagina de /withdraw
+## Pagina de /withdraw
 
 -Colocar en la card de las Cryptos
 
-   -Solo dejar El Minimo del Retiro sin la suma del fee por que crea confusion
-   -Dejar el Precio de la Crypto
-   -y Colocar el Fee de la Crypto
+   ~Solo dejar El Minimo del Retiro sin la suma del fee por que crea confusion~
+   ~Dejar el Precio de la Crypto~
+   ~y Colocar el Fee de la Crypto~
    
 -Colocar en el Modal del Retiro
 
-   -Colocar lo que el usuario recibira, es decir, (Monto  - Fee)
+   ~-Colocar lo que el usuario recibira, es decir, (Monto  - Fee)~
    
    
-+ Lo que aun Falta
+# Lo que aun Falta
 
    1-OfferWalls y Ref Contest pero con normas de validacion, es decir, ( en Offerwalls que valga mas la cantidad y no el numero de OferWalls completadas y en Ref que el referido cumpla con por lo menos 10 Faucet Claims, 10 OfferWalls, etc)
    
