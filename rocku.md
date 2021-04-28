@@ -5,17 +5,18 @@
 > Colocar en la tabla un boton para que salga un modal con la siguiente info:
    
    + ~~ID del Retiro~~
-   + Cantidad en Coins
-   + El Monto del Retiro en la Crypto que Retiro
-   + Fecha
-   + Nombre Completo de la Crypto con Acronimo
-   + La red que uso, es decir, (BSC / BEP2 / Mainnet)
-   + El fee
-   + Y lo que recibira, es decir, El Monto menos el Fee
-   + El Precio de la Crypto en el monto que retiro
-   + El Tx HASH
-   + Si se consumio el fee burn
+   + ~~Cantidad en Coins~~
+   + ~~El Monto del Retiro en la Crypto que Retiro~~
+   + ~~Fecha~~ "Solo para el admin. Ya al usuario se le muestra"
+   + ~~Nombre Completo de la Crypto con Acronimo~~
+   + ~~La red que uso, es decir, (BSC / BEP2 / Mainnet)~~
+   + ~~El fee~~
+   + ~~Y lo que recibira, es decir, El Monto menos el Fee~~
+   + ~~El Precio de la Crypto en el monto que retiro~~
+   + ~~El Tx HASH~~
+   + ~~Si se consumio el fee burn~~
 
+> Esto se colocó en withdraw manual y en el usuario
 ---
    
 # Fee Burn
@@ -31,8 +32,6 @@
    -El Precio de la Crypto en el momento del retiro
    -Y lo que recibira, es decir, (El Monto - Fee) pero dejar tambien el monto completo , es decir, (Solo el Monto si la resta del Fee)
    -Boton que me llevara a ver las actividades del usuario
-   
-
 
 + Pagina de /withdraw
 
@@ -83,3 +82,15 @@ que como en la de la red salga un mensaje diciendo un fee puesto en /coin y ese 
 en withdraw/manual se debe indicar si se cobro el fee burn si/no
 se debera colocar otro input en /coin sera y que se guarde en la db ya que solo alguna los cobran no toda
 si esta en 0 que no salga la info
+
+
+
+
+
+
+
+
+
+
+
+
