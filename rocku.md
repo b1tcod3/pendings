@@ -19,8 +19,9 @@
 > Esto se colocó en withdraw manual y en el usuario
 ---
    
-## Fee Burn
-	es un fee para nuevas address, es necesario usar la api para saber si se va a cobrar o no el fee
+## Stats
+	acomodar la pagina de /stats ya que al tener muchas actividades se crashea
+	y crear una estadistica de las visitas en cada shortlink por dia y acomodar el charts redondo da mal las actividades de cada actividad
 
 ---
 
@@ -84,7 +85,10 @@ se debera colocar otro input en /coin sera y que se guarde en la db ya que solo 
 si esta en 0 que no salga la info
 
 
+## Fee Burn
+	es un fee para nuevas address, es necesario usar la api para saber si se va a cobrar o no el fee
 
+---
 
 
 
