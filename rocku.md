@@ -13,6 +13,10 @@
    1-Los Nodes para Pagos instantaneos, tambien se debe de colocar una nota en cada card que diga si es pago instantaneo o manual,
    tambien si hay balance para el retiro y para ello se debe de colocar un nuevo input en /coin en donde se coloca la cantidad    disponible que tiene la billetera y con cada retiro este disminuya y al no tener que se ponga el boton en gris o que no funcione hasta que se llene el balance de la billetera.
    
+   https://documenter.getpostman.com/view/13630829/TVmFkLwy
+   
+   https://nownodes.io/
+   
    2-Colocar las siguientes OfferWalls:
 
    -pollfish
