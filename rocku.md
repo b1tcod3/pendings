@@ -1,13 +1,6 @@
 # Pendientes trabajos para essential
 
   
-## Stats
-	-Acomodar la pagina de /stats ya que al tener muchas actividades se crashea
-	-Crear una estadistica de las visitas en cada shortlink por dia 
-	-Acomodar el charts redondo da mal las actividades de cada actividad
-
----
-
 # Lo que aun Falta
 
    1-Los Nodes para Pagos instantaneos, tambien se debe de colocar una nota en cada card que diga si es pago instantaneo o manual,
